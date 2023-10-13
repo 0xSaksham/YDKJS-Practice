@@ -17,12 +17,12 @@ The "You Don't Know JavaScript" book series is an excellent resource for diving 
 
 ## Books in the Series
 
-- [Book 1: Up & Going](book1/)
-- [Book 2: Scope & Closures](book2/)
-- [Book 3: this & Object Prototypes](book3/)
-- [Book 4: Types & Grammar](book4/)
-- [Book 5: Async & Performance](book5/)
-- [Book 6: ES6 & Beyond](book6/)
+- [Book 1: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20%26%20going)
+- [Book 2: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/scope%20%26%20closures)
+- [Book 3: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes)
+- [Book 4: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/types%20%26%20grammar)
+- [Book 5: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/async%20%26%20performance)
+- [Book 6: ES6 & Beyond]([book6/](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/es6%20%26%20beyond))
 
 Each book's directory contains its code examples and exercises. You can explore the contents of a specific book by navigating to its directory.
 
