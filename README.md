@@ -62,4 +62,3 @@ Happy learning!
 
 ---
 
-Please note that this is a basic README structure. You can expand and customize it as needed, and make sure to replace placeholder URLs and information with your specific repository details.
