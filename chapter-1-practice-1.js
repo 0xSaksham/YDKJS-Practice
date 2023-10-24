@@ -45,4 +45,4 @@ function canAfford() {
     return false;
   }
 }
-if (!canAfford()) console.log("You cannot afford this purchase!");
+if (!canAfford()) console.log("You cannot afford this purchase!")
